@@ -1,0 +1,20 @@
+{
+  "name": "nytro-money-bot",
+  "version": "1.0.0",
+  "description": "A fake-money Discord bot inspired by a sleek NyTro-style economy system.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "javascript",
+    "money",
+    "economy"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
